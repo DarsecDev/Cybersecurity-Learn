@@ -97,6 +97,7 @@ Cada archivo sigue una estructura consistente:
 
 - 🐦 **Twitter**: https://x.com/Darsec_Dev - Comparto progreso y recursos
 - 📝 **Blog**: medium.com/@darsecdev - Artículos detallados sobre aprendizaje
+- 📷 Instagram: @darsec.dev - Behind the scenes del aprendizaje
 
 ## 📜 Licencia
 
