@@ -91,20 +91,12 @@ Cada archivo sigue una estructura consistente:
 ¿Encuentras errores o tienes sugerencias? 
 - 🐛 **Issues**: Para reportar errores o sugerir mejoras
 - 💡 **Discusiones**: Para preguntas o intercambio de ideas
-- 📧 **Contact**: [darsecdev@gmail.com] para colaboraciones
-
-## 📊 Estadísticas del Repo
-
-![Commits](https://img.shields.io/github/commit-activity/m/tuusuario/cybersecurity-learning)
-![Issues](https://img.shields.io/github/issues/tuusuario/cybersecurity-learning)
-![Forks](https://img.shields.io/github/forks/tuusuario/cybersecurity-learning)
-![Stars](https://img.shields.io/github/stars/tuusuario/cybersecurity-learning)
+- 📧 **Contact**: darsecdev@gmail.com para colaboraciones
 
 ## 🔗 Conecta conmigo
 
-- 🐦 **Twitter**: [@tuhandle] - Comparto progreso y recursos
-- 💼 **LinkedIn**: [Tu perfil] - Networking profesional  
-- 📝 **Blog**: [tu-blog.com] - Artículos detallados sobre aprendizaje
+- 🐦 **Twitter**: https://x.com/Darsec_Dev - Comparto progreso y recursos
+- 📝 **Blog**: medium.com/@darsecdev - Artículos detallados sobre aprendizaje
 
 ## 📜 Licencia
 
@@ -114,4 +106,4 @@ Este repositorio está bajo licencia [MIT](LICENSE) - eres libre de usar el cont
 
 ⭐ **Si este repositorio te ayuda en tu aprendizaje, considera darle una estrella para apoyar el proyecto**
 
-**Última actualización**: Febrero 2024 | **Próxima meta**: Certificación Security+ 🎯
+**Última actualización**: Septiembre 2025 | **Próxima meta**: Certificación Security+ 🎯
