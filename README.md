@@ -36,18 +36,6 @@ Libros, cursos, canales de YouTube, blogs y conferencias cuidadosamente seleccio
 **Automatización y código**  
 Scripts personales en Python y Bash para automatizar tareas de seguridad. Desde herramientas básicas hasta utilidades avanzadas.
 
-## 📈 Mi Progreso Actual
-
-```
-📊 Estado del Aprendizaje:
-├── 🟢 Fundamentos de redes        ████████████████ 100%
-├── 🟡 Herramientas básicas        ████████░░░░░░░░  50%
-├── 🔴 Vulnerabilidades web        ████░░░░░░░░░░░░  25%
-├── 🔴 Laboratorios prácticos      ██░░░░░░░░░░░░░░  12%
-├── 🔴 Certificaciones             ░░░░░░░░░░░░░░░░   0%
-└── 🟡 Scripts y automatización    ██████░░░░░░░░░░  37%
-```
-
 ## 🎯 Objetivos 2024
 
 - [ ] **CompTIA Security+** - Certificación fundamental (Q2 2024)
@@ -55,19 +43,6 @@ Scripts personales en Python y Bash para automatizar tareas de seguridad. Desde 
 - [ ] **Primer CTF completado** - Aplicar conocimientos
 - [ ] **Laboratorio personal** - Entorno de práctica propio
 - [ ] **5 scripts útiles** - Automatización básica
-
-## 🚀 Cómo usar este repositorio
-
-### Si eres principiante como yo:
-1. **Empieza con `/01-fundamentos/`** - No saltes este paso
-2. **Practica con `/02-herramientas-basicas/`** - Instala y prueba cada herramienta
-3. **Estudia `/03-vulnerabilidades/`** - Entiende qué buscas
-4. **Aplica en `/04-laboratorios-practicos/`** - La práctica hace al maestro
-
-### Si tienes experiencia:
-- Revisa mis writeups en laboratorios
-- Comparte feedback sobre mi enfoque
-- Sugiere recursos adicionales
 
 ## 📝 Metodología de Documentación
 
@@ -77,14 +52,6 @@ Cada archivo sigue una estructura consistente:
 - **Ejemplo práctico** - Algo que puedas probar
 - **Comandos/código** - Herramientas y sintaxis
 - **Referencias** - Enlaces para profundizar
-
-## ⚠️ Disclaimer Legal
-
-**Todo el contenido es para propósitos educativos y de laboratorio únicamente.**
-
-- ✅ Uso permitido: Sistemas propios, laboratorios autorizados, entornos de práctica
-- ❌ Uso prohibido: Sistemas ajenos sin autorización explícita
-- 🎯 Objetivo: Aprender para defender, no para atacar
 
 ## 🤝 Contribuciones
 
